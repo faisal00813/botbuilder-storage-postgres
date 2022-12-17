@@ -1,7 +1,7 @@
 node_modules
 .env
 .nyc_output
-lib
+# lib
 coverage
 *.tgz
 .vscode
